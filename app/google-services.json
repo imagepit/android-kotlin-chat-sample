@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "659213337887",
+    "firebase_url": "https://android-chat-c1d12.firebaseio.com",
+    "project_id": "android-chat-c1d12",
+    "storage_bucket": "android-chat-c1d12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659213337887:android:b079e524689e4c45",
+        "android_client_info": {
+          "package_name": "com.imagepit.kotlinfirebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659213337887-se6m7tbmpp20ea1gs0ts7ighpb82anad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9jwBl_5ut61Jw4Ppd0nI30lITK4oaxmg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
